@@ -3,7 +3,7 @@
 
 
 ### 8. 이미지 넣기
-![리자몽]()
+![파이참](https://github.com/kimyusuk/markdown_0127/blob/main/%EB%A7%88%ED%81%AC%EC%88%98%EC%97%85/%EC%BA%A1%EC%B2%98.PNG)
 
 
 ### 7. 하이퍼 링크
