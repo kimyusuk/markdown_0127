@@ -1,7 +1,20 @@
 # markdown_0127
 마크다운 설명
+
+
+
+### 7. 하이퍼 링크
+[e클래스](https://cafe.daum.net/pcwk "e 클래스의 cafe 입니다.")
+
+
+### 6. 가로 라인
+---
+***
+-----
+
 ### 5. 코드블록
 ```
+빽코트는 엔터가 자동으로 들어와진다.
 def index(request):
     # return HttpResponse("Hello pybo에 안녕하세요.pybo")
     # list order create_date desc
